@@ -1,0 +1,2 @@
+This project is meant to utilize basic HTML and CSS in order to recreate the layout and interface of Google's homepage!
+Note: This page has no actual functionality and is only meant to mimic the design of Google's hompage.
